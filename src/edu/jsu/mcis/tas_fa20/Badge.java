@@ -6,7 +6,6 @@
 package edu.jsu.mcis.tas_fa20;
 import java.sql.*;
 /**
- *
  * @author John
  */
 public class Badge {
