@@ -7,7 +7,7 @@ package edu.jsu.mcis.tas_fa20;
 import java.sql.*;
 /**
  *
- * @author Logan
+ * @author Shared File from Jeter
  */
 public class TASDatabase {
     public static void main(String args[]){
